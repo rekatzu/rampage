@@ -12,7 +12,7 @@ logo = """\x1b[1;92m█████████
 \x1b[1;92m ██ ██\x1b[00m"""
 
 banner = """
-\x1b[34mGunakan dengan bijak 
+\x1b[34mGunakan dengan bijak pesan dari author :)
 \x1b[1;92mHack akun facebook secara  Target 
 \x1b[00mLogin Menggunakan Akun Facebook Pribadi \x1b[91m!
 """
