@@ -14,7 +14,7 @@ logo = """\x1b[1;92m█████████
 banner = """
 \x1b[34mGunakan dengan bijak pesan dari author :)
 \x1b[1;92mHack akun facebook secara  Target 
-\x1b[00mLogin Menggunakan Akun Facebook Pribadi \x1b[91m!
+\x1b[00mLogin Menggunakan Akun Facebook Kalian \x1b[91m!
 """
 def main():
         os.system('clear')
